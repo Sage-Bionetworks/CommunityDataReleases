@@ -1,4 +1,4 @@
-# Data provider data release SOP
+# Data contributor data release SOP
 
 ## Description
 
