@@ -1,4 +1,4 @@
-# Communities Data Release
+# Data Releases for Sage Bionetworks Communities
 
 This repository contains documentation for data release standard operating procedures.
 
